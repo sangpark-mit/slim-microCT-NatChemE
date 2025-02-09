@@ -1,0 +1,18 @@
+# MATLAB backup and temporary files
+*~
+*.asv
+*.tmp
+
+# Compiled MEX files
+*.mexw32
+*.mexw64
+*.mexa64
+*.mexmaci64
+
+# Simulink project folders (if applicable)
+/slprj/
+/_*grt_rtw/
+
+# OS generated files
+.DS_Store
+Thumbs.db
