@@ -38,7 +38,7 @@ imshow(ExpImage_crop2)
 
 figure (32)
 imshow(ExpImage_crop3)
-%% ------------
+%------------
 figure (13)
 imhist(ExpImage_crop1)
 xlim([0, max(ExpImage_crop1(:))]);
